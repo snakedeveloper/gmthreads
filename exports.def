@@ -1,0 +1,13 @@
+EXPORTS
+  ThreadCreate
+  ThreadTerminate
+  ThreadSuspend
+  ThreadResume
+  ThreadWait
+  ThreadClose
+  ThreadSetPriority
+  ThreadSetAffinity
+  ThreadSetProcessor
+  ThreadGetPriority
+  ThreadGetError
+  GetProcessorCount

@@ -1,0 +1,13 @@
+1 VERSIONINFO
+FILEVERSION 2,0,0,000
+PRODUCTVERSION 2,0,0,000
+
+BEGIN
+  BLOCK "StringFileInfo" {
+    BLOCK "040904E4" {
+      VALUE "CompanyName", "Snake"
+      VALUE "FileDescription", "http://sgames.ovh.org/"
+      VALUE "FileVersion", "2.0.0.0"
+    }
+  }
+END
